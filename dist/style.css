@@ -1,0 +1,51 @@
+.firstone{
+  background-color:lightblue;
+}
+.secondone{
+  background-color:grey;
+}
+.thirdone{
+  background-color:blue;
+}
+canvas{
+  height:100pt;
+  width:200pt;
+  border:2px solid indigo;
+}
+.can_1{
+  background-color:khaki;
+}
+.can_2{
+  background-color:hotpink;
+}
+.Upload{
+  border-style:solid;
+  border-width:medium;
+  border-color:green;
+  border-radius:2px;
+}
+#up{
+  width:200pt;
+  height:200pt;
+  border:5px solid black;
+}
+
+#op{
+  width:200pt;
+  height:200pt;
+  border:5px solid black;
+}
+#red{
+  width:200pt;
+  height:200pt;
+  border:5px solid black;
+}
+#to{
+   width:200pt;
+  height:200pt;
+  border:5px solid black;
+  
+}
+body{
+  background-color:slateblue
+}
